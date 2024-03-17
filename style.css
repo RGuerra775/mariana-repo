@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+}
+.div {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+.text {
+    width: 100vw;
+    font-size: 30px;
+    font-family: serif;
+    margin-left: 25vw;
+}
+.ul button {
+    width: 100px;
+    height: 50px;
+    margin-left: 65px;
+}
+.img1 {
+    width: 100px;
+    margin-left: 50vw;
+    margin-top: 20px;
+}
+.tt {
+    position: fixed;
+    bottom: 150px;
+}
